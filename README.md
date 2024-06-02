@@ -12,7 +12,8 @@ class BuddingCoder:
     def say_hi(self):
         print("My repos are hidden but my personality is not")
 
-
-me = Tinkerer()
-me.say_hi()
 --->
+
+[![Junior’s github stats](https://github-readme-stats.vercel.app/api?username=GithubJunior07)](https://github.com/GithubJunior07)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GithubJunior07&layout=compact)](https://github.com/GithubJunior07)
