@@ -14,6 +14,6 @@ class BuddingCoder:
 
 --->
 
-[![Junior’s github stats](https://github-readme-stats.vercel.app/api?username=GithubJunior07)](https://github.com/GithubJunior07)
+[![Junior’s github stats]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GithubJunior07&layout=compact)](https://github.com/GithubJunior07)
+[![Top Langs]: Python, Bootstrap
