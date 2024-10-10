@@ -13,7 +13,6 @@ class BuddingCoder:
         print("My repos are hidden but my personality is not")
 
 --->
-
-[![Junior’s github stats]
+[![Currently Learning]: Flutter,Go, Javascript
 
 [![Top Langs]: Python, Bootstrap
