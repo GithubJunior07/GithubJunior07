@@ -13,6 +13,6 @@ class BuddingCoder:
         print("My repos are hidden but my personality is not")
 
 --->
-[![Currently Learning]: Flutter, Go, Javascript, Django
+[![Currently Learning]: Flutter, Go, Javascript, Django, REST
 
 [![Top Langs]: Python, Bootstrap
