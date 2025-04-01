@@ -12,7 +12,4 @@ class BuddingCoder:
     def say_hi(self):
         print("My repos are hidden but my personality is not")
 
---->
-[![Currently Learning]: Flutter, Go, Javascript, Django, REST
-
-[![Top Langs]: Python, Bootstrap
+// Dabbling in Python,Django,Bootstrap, TailwindCSS, javascript, Flask & React
