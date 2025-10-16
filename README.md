@@ -12,4 +12,4 @@ class BuddingCoder:
     def say_hi(self):
         print("My repos are hidden but my personality is not")
 
-// Dabbling in Python,Django,Bootstrap, TailwindCSS, javascript, Flask & React
+// Dabbling in Python,Django,Bootstrap, TailwindCSS, Javascript, Flask, React & Node.js
