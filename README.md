@@ -1,15 +1,22 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-
-class BuddingCoder:
+class Builder:
 
     def __init__(self):
         self.name = "Junior07"
-        self.role = "Tinkerer"
-        self.language_spoken = ["en_US","fr_FR", "my_MY"]
+        self.role = "Founder & Builder"
+        self.languages = ["Python", "JavaScript", "English", "French", "Malay"]
+        self.current_mission = "Turning ideas into things people use"
+        self.mindset = ["Build", "Break", "Learn", "Repeat"]
 
     def say_hi(self):
-        print("My repos are hidden but my personality is not")
+        print("Less talking. More building.")
 
-// Dabbling in Python,Django,Bootstrap, TailwindCSS, Javascript, Flask, React & Node.js
+    def currently_building(self):
+        return ["Django", "AI-powered products", "Neighbrr"]
+
+    def motto(self):
+        return "If it can be built, let's figure it out."
+
+        "Ideas are cheap. Shipping is the fun part."
